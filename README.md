@@ -29,7 +29,7 @@ vim docker-compose.yml
 **EXTENSION SHOULD YML ONLY**
 **WRITE THE CODE IN docker-compose.yml file**
 
-#RUN YOUR CODE
+**RUN YOUR CODE**
 
 **THEN RUN YOUR CODE BY**
 ```
