@@ -3,7 +3,7 @@ services:
         joomladb:
                 image: mysql:5.7
                 volumes:
-                        - mysql_storage_new:/var/lib/mysql
+                        - mysql1_storage_new:/var/lib/mysql
                 restart: always
                 environment:
                         MYSQL_ROOT_PASSWORD: rootpass
@@ -31,5 +31,5 @@ services:
 
 volumes:
        joomla_storage_new:
-       mysql_storage_new:
+       mysql1_storage_new:
         
